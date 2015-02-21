@@ -19,6 +19,4 @@ Our value proposition For Buyer:
 Buyer has easy streamlined process, choosing ANY payment method
 
 Our value proposition For Seller:
-Seller gets all revenue delivered to one specific place. No need for separate PayPal, 
-
-Amazon, etc accounts
+Seller gets all revenue delivered to one specific place. No need for separate PayPal, Amazon, etc accounts
