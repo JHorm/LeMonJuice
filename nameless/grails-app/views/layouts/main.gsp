@@ -31,6 +31,7 @@
 				</div>
 				<div id="navbar" class="navbar-collapse collapse">
 					<ul class="nav navbar-nav navbar-right">
+						<li><g:link controller = "payment" action = "create">Create</g:link></li>
 						<li><a href="#">How it works</a></li>
 					</ul>
 				</div>

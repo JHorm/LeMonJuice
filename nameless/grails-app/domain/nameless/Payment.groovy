@@ -4,7 +4,8 @@ class Payment {
 
 	String image
 	String productName
-	BigDecimal price
+	String description
+	String price
 	
 	static hasMany = [methods: PaymentMethod]
 	
